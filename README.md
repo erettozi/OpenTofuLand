@@ -33,5 +33,8 @@ OpenTofuLand is a foundational repository for a course on Terraform using OpenTo
 │       ├── main.tf
 │       ├── variables.tf
 │       └── outputs.tf
-└── main.tf
+├── main.tf
+├── provider.tf
+├── outputs.tf
+└── variables.tf
 ```
